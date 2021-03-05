@@ -1,0 +1,3 @@
+﻿  AreaTriangle.cpp
+C:\Users\092834\OneDrive - UP Education\Desktop\AreaTriangle\AreaTriangle.cpp(10,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  AreaTriangle.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\AreaTriangle\Debug\AreaTriangle.exe
